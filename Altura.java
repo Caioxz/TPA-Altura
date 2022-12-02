@@ -6,10 +6,10 @@ public class Altura {
 			altPedro=altPedro + 2.0;
 			altJoao=altJoao + 2.5;
 			i++;
-			
+			//o programa vai calcular a idade de pedro +2.0, vai ficar se repetindo at√© focar "<=" que altura de Jo√£o
 		}
 		
-		System.out.println("Jo„o sÛ ficar· maior que Pedro daqui "+i+" anos.");
+		System.out.println("Jo√£o s√≥ ficar√° maior que Pedro daqui "+i+" anos.");
 		System.out.println("oi");
 	}
 
